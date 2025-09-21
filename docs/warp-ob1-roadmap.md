@@ -17,7 +17,7 @@
 - **Terminal engine:** decide whether to extend existing TUI (ratatui) or embed GPU-accelerated renderer; draft RFC covering block rendering, diffing, panes, scrollback, and emoji/ligature support.
 - **Service topology:** document how Codex CLI, daemon, and cloud services communicate; design API surfaces for AI suggestions, memory, and collaboration.
 - **Extensibility:** formalize plugin/tooling API (building on MCP) for third-party integrations and workflows.
-- **Deliverables:** architecture RFCs, milestone plan, engineering resourcing estimates.
+- **Deliverables:** architecture RFCs, milestone plan, engineering resourcing estimates. See `warp-ob1-architecture-foundations.md` for detailed execution guidance.
 
 ## 3. Long-Context & Memory Strategy (Weeks 3–8)
 - **Session memory hierarchy:**
